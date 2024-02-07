@@ -9,6 +9,7 @@ This repository contains the Python programs that I worked in Explainable AI cla
 - Logistic Regression Programs
   - [Iris dataset](LR/LR-Iris.ipynb)
   - [Red Wine Dataset](LR/Red_Wine_EA.ipynb)
+  - [NYC Taxi Fare Prediction](LR/nyc-taxi-fare-prediction.ipynb)
 
 ## Prerequisites
 
