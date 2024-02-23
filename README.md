@@ -10,6 +10,8 @@ This repository contains the Python programs that I worked in Explainable AI cla
   - [Iris dataset](LR/LR-Iris.ipynb)
   - [Red Wine Dataset](LR/Red_Wine_EA.ipynb)
   - [NYC Taxi Fare Prediction](LR/nyc-taxi-fare-prediction.ipynb)
+- LIME (Local Interpretable Model-Agnostic Explanations)
+  - [Red Wine Dataset](LIME/Red_Wine_EA.ipynb)
 
 ## Prerequisites
 
