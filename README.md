@@ -12,6 +12,8 @@ This repository contains the Python programs that I worked in Explainable AI cla
   - [NYC Taxi Fare Prediction](LR/nyc-taxi-fare-prediction.ipynb)
 - LIME (Local Interpretable Model-Agnostic Explanations)
   - [Red Wine Dataset](LIME/Red_Wine_EA.ipynb)
+- 2D Projection
+  - [Iris Dataset](2d-Projection/2d-proj.ipynb)
 
 ## Prerequisites
 
@@ -19,6 +21,15 @@ Python and packages in `requirements.txt` file installed.
 
 > [!NOTE]
 > You can install all the packages in the file using the command `pip install -r requirements.txt`.
+
+### Working with Conda
+
+If you are using `conda` to manage your environments, you can create a new environment for this repository with the command `conda create -n eai` and activate it with the command `conda activate eai`.
+
+> [!TIP]
+> For faster environment solving in Conda, I would suggesting using the `libmamba` solver. You can set it as the default solver using the command `conda config --set solver libmamba`.
+
+Then, you can install all the required packages using the command `conda install --file requirements.txt`.
 
 ### Container Image
 
